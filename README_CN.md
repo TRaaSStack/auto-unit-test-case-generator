@@ -82,6 +82,7 @@ mvn -Dtest=TestConcolic_SSTest test
 
 # 新闻报道
 信通院软件质效领航者优秀案例：[https://mp.weixin.qq.com/s/DOgXE66ldZJWpJ3SBWNfJg](https://mp.weixin.qq.com/s/DOgXE66ldZJWpJ3SBWNfJg)
+QECon上海站｜蚂蚁测试用例智能生成技术架构与实践：[https://mp.weixin.qq.com/s/GTK6L_jwiS-74iUmngfN5g](https://mp.weixin.qq.com/s/GTK6L_jwiS-74iUmngfN5g)
 # 联系我们
 在使用Auto-Unit-Test-Case-Generator过程中，如果遇到任何问题欢迎联系我们：
 
